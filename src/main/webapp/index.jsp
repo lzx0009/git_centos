@@ -3,15 +3,11 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8" />
-		<title></title>
-		<link rel="stylesheet" href="css/findAllStudent.css"/>
-		<link rel="stylesheet" href="css/login.css"/>
+	<title>jenkins+git+maven</title>	
+	<meta charset="utf-8" />
 	</head>
 	<body>
-		<div class="headr">
-				<h1>welcome tom</h1>
-		</div>
+		<h1>jenkins自动化部署完成</h1>
 
 
 	</body>
